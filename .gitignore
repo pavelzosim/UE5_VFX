@@ -1,0 +1,26 @@
+# Промежуточные файлы, которые не нужно сохранять в репозиторий
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.log
+*.tmp
+*.vs
+*.sln
+.vscode/
+
+# Конфигурационные файлы движка, которые не нужно трекать
+*.opensdf
+*.sdf
+*.vcxproj
+*.VC.db
+*.VC.opendb
+
+# Файлы платформ, если используешь Visual Studio и другие IDE
+*.xcodeproj/
+*.xcworkspace/
+.idea/
+
+# Файлы окружения, кэш, и прочие временные
+.DS_Store
+Thumbs.db
